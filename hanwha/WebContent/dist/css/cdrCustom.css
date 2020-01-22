@@ -1,0 +1,77 @@
+/* .customTable table tr td {border-bottom:1px solid #000;} */
+/* .customTable table tr:last-child td {border-bottom:none;} */
+
+.customTable>thead>tr>th, .customTable>tbody>tr>th, .customTable>tfoot>tr>th, .customTable>thead>tr>td, .customTable>tbody>tr>td, .customTable>tfoot>tr>td
+{
+	border-bottom:1px solid white;
+}
+
+.customTable>tbody>tr:last-child td
+{
+	border-bottom:1px solid #f4f4f4;
+}
+
+.cdrBanner
+{
+	background-repeat: no-repeat !important;
+	width: 909px;
+	height: 22px;
+	margin-left: 93px;
+/* 	margin-top: 200px; */
+	top: 32%;
+	position: absolute;
+}
+
+.cdrBanner2
+{
+	background-repeat: no-repeat !important;
+	width: 909px;
+	height: 22px;
+	margin-left: 93px;
+/* 	margin-top: 200px; */
+	top: 55%;
+	position: absolute;
+}
+
+.cdrImage
+{
+	background-repeat: no-repeat !important;
+	width: 432px;
+	height: 94px;
+	margin-left: 93px;
+/* 	margin-top: 335px; */
+	top: 57%;
+	position: absolute;
+}
+
+.cdrHyper
+{
+	background-repeat: no-repeat !important;
+	width: 220px;
+	height: 17px;
+/* 	margin-left: 93px; */
+/* 	margin-top: 450px; */
+	position: absolute;
+}
+
+.cdrBeacon
+{
+	background-repeat: no-repeat !important;
+	width: 69px;
+	height: 57px;
+	margin-left: 970px;
+/* 	margin-top: 440px; */
+	top: 70%;
+	position: absolute;
+}
+
+.cdrScript
+{
+	background-repeat: no-repeat !important;
+	width: 51px;
+	height: 43px;
+	margin-left: 910px;
+/* 	margin-top: 490px; */
+	top: 82%;
+	position: absolute;
+}
